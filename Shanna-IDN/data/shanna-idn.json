@@ -1,0 +1,123 @@
+{
+    "menu" : [
+        {
+            "kategori": "Classic",
+            "nama": "White Coffee",
+            "deskripsi": "Latte or Cappuccino",
+            "harga": "Hot : 23.000 | Iced : 25.000",
+            "gambar": "White coffee.png"
+        },
+        {
+            "kategori": "Classic",
+            "nama": "Black Coffee",
+            "deskripsi": "Americano or Long Black",
+            "harga": "Hot : 18.000 | Iced : 23.000",
+            "gambar": "Black coffee.png"
+        },
+        {
+            "kategori": "Kopi Susu",
+            "nama": "Calla",
+            "deskripsi": "Es Kopi Susu with Caramel Flavor",
+            "harga": "21.000",
+            "gambar": "Calla.png"
+        },
+        {
+            "kategori": "Kopi Susu",
+            "nama": "Alamanda",
+            "deskripsi": "Es Kopi Susu with Almond Flavor",
+            "harga": "23.000",
+            "gambar": "Alamanda.png"
+        },
+        {
+            "kategori": "Kopi Susu",
+            "nama": "Cosmos",
+            "deskripsi": "Es Kopi Susu with Creamy Texture",
+            "harga": "21.000",
+            "gambar": "Cosmos.png"
+        },
+        {
+            "kategori": "Kopi Susu",
+            "nama": "Peony",
+            "deskripsi": "Es Kopi Susu with Panda Flavor",
+            "harga": "21.000",
+            "gambar": "Peony.png"
+        },
+        {
+            "kategori": "Signature",
+            "nama": "Peachy Day",
+            "deskripsi": "Coffee Mocktail with Peach Flavor",
+            "harga": "26.000",
+            "gambar": "Peachy day.png"
+        },
+        {
+            "kategori": "Signature",
+            "nama": "beYOUtiful",
+            "deskripsi": "Coffee Mocktail with Berries Flavor",
+            "harga": "26.000",
+            "gambar": "beYOUtiful.png"
+        },
+        {
+            "kategori": "Signature",
+            "nama": "Sweet Salt",
+            "deskripsi": "Es Kopi Susu with Mix Sweet and Salt Tasted",
+            "harga": "26.000",
+            "gambar": "Sweet Salt.png"
+        },
+        {
+            "kategori": "Signature",
+            "nama": "Honey Sea",
+            "deskripsi": "Es Kopi Susu with Honey and Creamy Tasted",
+            "harga": "26.000",
+            "gambar": "Honey Sea.png"
+        },
+        {
+            "kategori": "Signature",
+            "nama": "Winter Cocoa",
+            "deskripsi": "Sweetness of Chocolate Mix with Freshness of Mint",
+            "harga": "26.000",
+            "gambar": "Winter Cocoa.png"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Rice Bowl Korean Sauce",
+            "deskripsi": "Sweetness of Chocolate Mix with Freshness of Mint",
+            "harga": "27.000",
+            "gambar": "Rice Bowl Korean Sauce.png"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Rice Bowl Japan Sauce",
+            "deskripsi": "Rice Bowl with Chicken and Japan Seasoning Sauce",
+            "harga": "28.000",
+            "gambar": "Rice Bowl Japan Sauce.png"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Rice Bowl Bali Sauce Chicken",
+            "deskripsi": "Rice Bowl with Chicken and Bali Seasoning Sauce",
+            "harga": "27.000",
+            "gambar": "Rice Bowl Bali Sauce Chicken.png"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Korean Fried Rice",
+            "deskripsi": "Fried Rice With Secret Korean Seasoning",
+            "harga": "27.000",
+            "gambar": "Korean Fried Rice.png"
+        },
+        {
+            "kategori": "Food",
+            "nama": "French Fries",
+            "deskripsi": "French Fries with Original Flavor",
+            "harga": "16.000",
+            "gambar": "French Fries.png"
+        },
+        {
+            "kategori": "Food",
+            "nama": "Dimsum",
+            "deskripsi": "Mix Dimsum",
+            "harga": "19.000",
+            "gambar": "Dimsum.png"
+        }
+    ]
+}
